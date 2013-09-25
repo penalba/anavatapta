@@ -11,6 +11,18 @@
         "prop0": "value0"
       }
     },
+        {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [119.0, 34.0]
+        ]
+      },
+      "properties": {
+        "prop1": 0.0,
+        "prop0": "value0"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
